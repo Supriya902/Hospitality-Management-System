@@ -1,1 +1,1 @@
-# Hospitality-Management-System
+ The Hospitality management system is a Java-based project that manages hotel operations such as room bookings, check-ins, check-outs, and billing. It follows Object-Oriented Programming principles and uses file handling instead of SQL for data storage. The system allows users to check room availability, book rooms, calculate billing based on stay duration, and update records efficiently. Key Java concepts such as Encapsulation, Abstraction, and Composition are applied to ensure modularity and security.
